@@ -1,0 +1,5 @@
+{
+  "name": "Pix2Pix AI Image Translator",
+  "description": "An image-to-image translation application that uses a generative AI model to transform an input image based on a text prompt, simulating the functionality of a cGAN like pix2pix.",
+  "requestFramePermissions": []
+}
